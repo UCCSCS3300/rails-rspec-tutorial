@@ -40,7 +40,7 @@ bundle exec rspec # Make sure you're in the root directory of the application wh
 
 require "rails_helper"
 
-RSpec.describe "The math blow is wrong..." do
+RSpec.describe "The math below is wrong..." do
   it "should equal 42 but we said 43" do
     expect(6 * 7).to eq(43)
   end
