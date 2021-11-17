@@ -323,7 +323,7 @@ end
 
 4. Don't forget to add `coverage/` dir to your `.gitignore` file;
 
-5. Running `bunlde exec rspec` will generate a coverage report 
+5. Running `bundle exec rspec` will generate a coverage report 
 
 
 ## Helpful links:
