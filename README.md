@@ -8,7 +8,6 @@ Beginners introduction to testing Ruby On Rails application with RSpec and Capyb
 1. Add `rspec` and `mini_racer` to the `Gemfile`:
 
 ```ruby
-  gem 'mini_racer'
   
   group :development, :test do
     gem 'rspec-rails', '~> 3.7'
