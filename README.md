@@ -2,7 +2,7 @@
 
 Beginners introduction to testing Ruby On Rails application with RSpec and Capybara.
 
-## Your first spec (v0.2)
+## Your first spec
 
 
 1. Create first spec `spec/example/first_spec.rb`:
