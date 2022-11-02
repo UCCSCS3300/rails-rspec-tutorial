@@ -10,7 +10,7 @@ Beginners introduction to testing Ruby On Rails application with RSpec and Capyb
 ```ruby
   
   group :development, :test do
-    gem 'rspec-rails', '~> 3.7'
+    gem 'rspec-rails', '~> 6.0.0'
   end
 
 ```
