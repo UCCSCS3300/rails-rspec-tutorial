@@ -1,6 +1,7 @@
 # Testing Rails with RSpec
 
-Beginners introduction to testing Ruby On Rails application with RSpec and Capybara.
+Beginners introduction to testing Ruby On Rails application with RSpec and Capybara. 
+**Prior to using this tutorial make sure rspec is installed.**
 
 ## Your first spec
 
