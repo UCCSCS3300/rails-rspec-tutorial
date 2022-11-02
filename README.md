@@ -5,7 +5,7 @@ Beginners introduction to testing Ruby On Rails application with RSpec and Capyb
 
 ## Install RSpec with Rails
 
-1. Follow these INSTALLATION instructions https://github.com/rspec/rspec-rails/tree/6-0-maintenance#rspec-rails-- then continue to the steps below.
+1. Follow these installation instructions -- https://github.com/rspec/rspec-rails/tree/6-0-maintenance#installation -- then continue to the steps below.
 
 
 ## Your first spec (v0.2)
